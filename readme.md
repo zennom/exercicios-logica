@@ -7,7 +7,7 @@
 <img src="images/bojji.gif" alt="Bojji" width=250>
 
 
-## Problemas nivel 1 - Estruturas de condição e repetição
+## Exercícios Nivel 1 - Estruturas de condição e repetição
 
 1. Leia 2 valores reais N1 e N2, que correspondem a 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota N1 tem peso 3.5 e a nota N2 tem peso 7.5 (A soma dos pesos, portanto é  11). Assuma que cada nota pode ir de 0 até 10.0. 
 
@@ -132,7 +132,7 @@ peso: 53`
 <img src="images/midoriya.gif" alt="Midoriya" width=250>
 
 
-## Problemas nivel 1.2 - Funções
+## Exercícios Nível 1.2 - Funções
 
 1. Faça uma função que converta centímetros para metros
 
@@ -143,7 +143,7 @@ peso: 53`
 4. Faça uma função que converta temperatura de Fahrenheit para Celsius 
 
 
-## Problema nivel 1.3 - Funções
+## Exercícios Nivel 1.3 - Funções
 
 Neste exercício, vamos criar um programa de bordo para nossa nave que receba o nome da nave
 A velocidade da nave deve ser inicialmente 0 e um menu deve ser exibido para que o usuário escolha entre as seguintes opções: 
