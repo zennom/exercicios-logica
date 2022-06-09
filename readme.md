@@ -69,7 +69,7 @@ Salário: R$ 550`
 
 9.Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
 
-<img src="images/lanche.png" alt="lanche" width=300>
+<img src="images/lanche.png" alt="lanche" width=350>
 
 * **Exemplo de Entrada**
 `3 
@@ -89,7 +89,7 @@ Salário: R$ 550`
 11.IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. 
 A fórmula é IMC = peso/( altura*altura) Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua condição de acordo com a tabela abaixo. 
 
-<img src="images/imc.png" alt="Bojji" width=250>
+<img src="images/imc.png" alt="imc" width=350>
 
 12.Elabore um programa que conte de 0 até quanto o usuário quiser
 
