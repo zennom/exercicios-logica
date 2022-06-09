@@ -1,7 +1,7 @@
-## Esse documento tem como objetivo ajudar os alunos a desenvolverem melhor sua lógica! 
+### Esse documento tem como objetivo ajudar os alunos a desenvolverem melhor sua lógica! 
 
 
-# Vamos nessa?
+### Vamos nessa?
 
 
 <img src="images/bojji.gif" alt="Bojji" width=250>
@@ -147,10 +147,11 @@ peso: 53`
 
 Neste exercício, vamos criar um programa de bordo para nossa nave que receba o nome da nave
 A velocidade da nave deve ser inicialmente 0 e um menu deve ser exibido para que o usuário escolha entre as seguintes opções: 
-1 -Acelerar a nave em 5km/s
-2 - Desacelerar a nave em 5km/s
-3 - Imprimir dados de bordo
-4 - Sair do programa
+1. Acelerar a nave em 5km/s
+2. Desacelerar a nave em 5km/s
+3. Imprimir dados de bordo
+4. Sair do programa
+
 Caso a pessoa escolha um número que não está na lista é necessário exibir o menu novamente até que seja escolhida uma opção válida. Para fazer esse app precisaremos: 
 Criar uma função que exiba o menu e valide a opção escolhida
 Uma função para cada ação do menu de acelerar, desacelerar e imprimir dados de bordo
